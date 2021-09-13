@@ -4,6 +4,14 @@ body {
   padding: 25px;
   background-color: rgb(63, 170, 189);
 }
+.heading{
+  text-align: center;
+  color: rgb(15, 15, 15);
+  font-size: 50px;
+  margin-top: 0%;
+  padding-top: 0%;
+  font-weight:800;
+}
 .search-field {
   display: flex;
   width: 50%;
